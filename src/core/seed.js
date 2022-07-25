@@ -1,3 +1,5 @@
-const seed = {};
+const seed = {
+	studentDetails: [],
+};
 
 export default seed;
